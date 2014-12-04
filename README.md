@@ -1,3 +1,5 @@
+[jcw] I worked on this project as an intern, with Novartis Institutes for BioMedical Research :)
+
 [GridVar][examples]
 =======================
 
